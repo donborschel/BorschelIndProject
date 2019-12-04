@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ItemSubmit"
+        android:title="Submit" />
+    <item
+        android:id="@+id/ItemSearch"
+        android:title="Search" />
+    <item
+        android:id="@+id/ItemLogOut"
+        android:title="Logout" />
+
+
+</menu>
